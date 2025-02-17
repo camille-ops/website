@@ -13,9 +13,9 @@ Bachelor of Science, Electronics Engineering | Polytechnic University of the Phi
 
 
 ### Capstone Project in College
-**Smart Energy Submeter**      
+**Smart Energy Submeter** (_2023_)      
 Technologies used: ESP32 and C++ (IoT and Embedded Software)
-- Collaborated on developing a prototype smart submeter with real-time energy 
+- Collaborated on developing a prototype submeter with real-time energy 
 monitoring and alerts via Wi-Fi. 
-- Contributed to coding, debugging, and testing system functionality. 
-- Assisted in writing functional specifications and software documentation.
+- Contributed in testing system functionality. 
+- Assisted in writing functional specifications and documentation.

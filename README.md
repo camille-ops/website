@@ -1,6 +1,5 @@
 # Aspiring Software Engineer
->Currently improving my
-#### Technical Skills: C, C++, and Linux
+>Currently improving my #### Technical Skills: C, C++, and Linux
 
 ## Education      
 Bachelor of Science, Electronics Engineering | Polytechnic University of the Philippines  (_October 2023_)

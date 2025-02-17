@@ -2,7 +2,7 @@ title: Camille Kaye Ochoa
 logo: /img/character.jpg
 description: I love automation!
 show_downloads: true
-  github:
-      zip_url: /img/resume.pdf
-      tar_url: http://linkedin.com/in/ochoack
+github:
+  zip_url: /img/resume.pdf
+  tar_url: http://linkedin.com/in/ochoack
 theme: jekyll-theme-minimal
